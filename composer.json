@@ -14,12 +14,7 @@
     "require": {
         "guzzlehttp/guzzle": "^6.4",
         "php": ">=7.0"
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0-dev"
-        }
-    },
+    }, 
     "autoload": {
         "psr-4": {
             "iBlue\\": "src/"
