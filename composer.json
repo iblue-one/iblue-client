@@ -1,0 +1,22 @@
+{
+    "name": "evo/iblue-client",
+    "description": "PHP Client SDK for iBlue",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nekena Ratafita",
+            "email": "nekena.ratafita@iblue.one"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "^6.4",
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Evo\\iBlue\\": "src/"
+        }
+    }
+}
