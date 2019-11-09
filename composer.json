@@ -8,8 +8,7 @@
             "name": "Nekena Ratafita",
             "email": "nekena.ratafita@iblue.one"
         }
-    ],
-    "minimum-stability": "dev",
+    ], 
     "require": {
         "guzzlehttp/guzzle": "^6.4",
         "php": ">=7.0"
