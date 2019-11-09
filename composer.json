@@ -9,8 +9,7 @@
             "email": "nekena.ratafita@iblue.one"
         }
     ], 
-    "version": "1.0.0",
-    "minimum-stability": "stable",
+    "version": "1.0.0", 
     "require": {
         "guzzlehttp/guzzle": "^6.4",
         "php": ">=7.0"
@@ -19,5 +18,12 @@
         "psr-4": {
             "iBlue\\": "src/"
         }
-    }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
