@@ -1,5 +1,5 @@
 {
-    "name": "evo/iblue-client",
+    "name": "iblue-one/iblue-client",
     "description": "PHP Client SDK for iBlue",
     "type": "library",
     "license": "MIT",
