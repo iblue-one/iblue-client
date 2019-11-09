@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Evo\\iBlue\\": "src/"
+            "iBlue\\": "src/"
         }
     }
 }

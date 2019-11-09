@@ -1,5 +1,5 @@
 <?php 
-namespace Evo\iBlue;
+namespace iBlue;
 
 class iBlueException extends \Exception
 {

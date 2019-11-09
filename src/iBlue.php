@@ -1,8 +1,8 @@
 <?php
 
-namespace Evo\iBlue;
+namespace iBlue;
 
-use Evo\iBlue\Authentication\AccessToken;
+use iBlue\Authentication\AccessToken;
 use Exception;
 use GuzzleHttp\Client;
 
